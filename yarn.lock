@@ -1767,6 +1767,12 @@ ember-cli-eslint@^4.0.0:
     rsvp "^4.6.1"
     walk-sync "^0.3.0"
 
+ember-cli-facebook-js-sdk@^2.0.1:
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/ember-cli-facebook-js-sdk/-/ember-cli-facebook-js-sdk-2.0.1.tgz#f7393fb4d8159a73db068e931b659fb23f244f84"
+  dependencies:
+    ember-cli-babel "^6.6.0"
+
 ember-cli-get-component-path-option@^1.0.0:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/ember-cli-get-component-path-option/-/ember-cli-get-component-path-option-1.0.0.tgz#0d7b595559e2f9050abed804f1d8eff1b08bc771"
